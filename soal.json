@@ -1,0 +1,112 @@
+[
+    {
+      "type": "multiple_choice",
+      "question": "Apa fungsi utama dari HTML dalam pengembangan web?",
+      "options": [
+        "Menyimpan data pengguna",
+        "Mengatur tampilan halaman web",
+        "Menyusun struktur dan konten halaman web",
+        "Menghubungkan ke server database"
+      ],
+      "answer": "Menyusun struktur dan konten halaman web"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Tag HTML manakah yang digunakan untuk membuat tautan?",
+      "options": [
+        "<img>",
+        "<a>",
+        "<link>",
+        "<href>"
+      ],
+      "answer": "<a>"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manakah yang merupakan cara benar untuk menambahkan CSS di HTML?",
+      "options": [
+        "<css>...</css>",
+        "<style>...</style>",
+        "<design>...</design>",
+        "<script>...</script>"
+      ],
+      "answer": "<style>...</style>"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Properti CSS apa yang digunakan untuk mengubah warna teks?",
+      "options": [
+        "text-color",
+        "background",
+        "font-style",
+        "color"
+      ],
+      "answer": "color"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manakah contoh pemanggilan fungsi JavaScript yang benar?",
+      "options": [
+        "function.myFunction();",
+        "call myFunction()",
+        "myFunction();",
+        "start.myFunction()"
+      ],
+      "answer": "myFunction();"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Apa ekstensi file standar untuk file JavaScript?",
+      "options": [
+        ".js",
+        ".html",
+        ".css",
+        ".json"
+      ],
+      "answer": ".js"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bagaimana cara menghubungkan file CSS eksternal ke HTML?",
+      "options": [
+        "<style src=\"style.css\">",
+        "<css href=\"style.css\">",
+        "<link rel=\"stylesheet\" href=\"style.css\">",
+        "<script src=\"style.css\">"
+      ],
+      "answer": "<link rel=\"stylesheet\" href=\"style.css\">"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Di manakah tag <script> JavaScript umumnya diletakkan untuk meningkatkan performa?",
+      "options": [
+        "Di awal tag <head>",
+        "Di dalam tag <body> bagian atas",
+        "Tepat setelah tag <html>",
+        "Di akhir tag <body>"
+      ],
+      "answer": "Di akhir tag <body>"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Manakah yang merupakan pernyataan benar dalam JavaScript?",
+      "options": [
+        "var x = 10;",
+        "x := 10;",
+        "let x == 10;",
+        "define x = 10;"
+      ],
+      "answer": "var x = 10;"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Fungsi utama dari CSS adalah...",
+      "options": [
+        "Menyusun struktur data",
+        "Menambahkan interaktivitas ke halaman web",
+        "Menghubungkan web ke database",
+        "Mengatur tampilan dan gaya halaman web"
+      ],
+      "answer": "Mengatur tampilan dan gaya halaman web"
+    }
+  ]
